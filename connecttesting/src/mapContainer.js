@@ -67,7 +67,6 @@ const Map = () => {
     }
 
     //지금 안담기는 이유가 처음에 빈 리스트여서 그래서 안담기는거 같은데...
-    console.log(place);
 
     place.forEach((el) => {
       // 마커를 생성합니다
